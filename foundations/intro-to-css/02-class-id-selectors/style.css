@@ -1,31 +1,26 @@
-/* Shared base styles for all .odd elements (1, 3, 4, 5) */
 .odd {
     font-family: verdana, dejavu sans, sans-serif;
     background-color: #ffb6c1;
 }
 
-/* Number 2: specific ID */
+.bold {
+    font-size: 24px;
+}
 
-#blue {
+#two {
     color: #4169e1;
     font-size: 36px;
+}
+
+#four {
+    background-color: #90ee90;
     font-weight: bold;
 }
-
-/* Number 3: p elements with both .odd and .red */
-p.odd.red {
-  font-size: 24px;
-  font-weight: bold;
-}
-
-
-
-/* Number 4: div with ID #green and class .odd */
 
 #green {
-    background-color: #90ee90;
+    
     font-size: 24px;
-    font-weight: bold;
+    
 }
 
 /* Number 5 default with Number 1 */
