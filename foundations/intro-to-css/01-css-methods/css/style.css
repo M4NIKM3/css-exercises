@@ -1,0 +1,13 @@
+div {
+    color: white;
+    background-color: red;
+    text-align: center;
+    /* Settting the family was not neccessary */
+    /*font-family: 'Times New Roman', Times, serif;*/
+    font-weight: bold;
+
+    /* Below xx-large was not necessarty should have used numerical. Solution shows 32px used */
+    /*font-size: xx-large;*/
+    font-size: 32px;
+}
+
